@@ -1,6 +1,8 @@
 # social_attrs_classification  
 This repo contains files demonstrating work with **LiveJournal** and **VK** APIs.   
-
+  
+**cities.ipynb** >>>>> an example of training models for cities recognition. Defaul LogReg, default LinearSVC, fine-tuned LogReg, fine-tuned LinearSVC; basic CNN, basic LSTM, tuned CNN, tuned LSTM  
+  
 **exceptions.py** >>>>> just a simple exception for LiveJournal API mainly  
   
 **from_database.py** >>>>> demonstrates simplicity of queries using peewee  
