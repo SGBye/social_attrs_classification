@@ -3,6 +3,8 @@ This repo contains files demonstrating work with **LiveJournal** and **VK** APIs
   
 **cities.ipynb** >>>>> an example of training models for cities recognition. Defaul LogReg, default LinearSVC, fine-tuned LogReg, fine-tuned LinearSVC; basic CNN, basic LSTM, tuned CNN, tuned LSTM  
   
+**collect_vk.py** >>>>> demonstrates and example of collecting data about VK users
+  
 **exceptions.py** >>>>> just a simple exception for LiveJournal API mainly  
   
 **from_database.py** >>>>> demonstrates simplicity of queries using peewee  
