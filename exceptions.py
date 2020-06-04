@@ -1,0 +1,2 @@
+class NotFetchedException(Exception):
+    pass
